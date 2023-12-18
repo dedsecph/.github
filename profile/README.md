@@ -14,14 +14,14 @@ The tools developed by DEDSECPH are intended for legal and ethical use only. Una
 
 ## Getting Started
 
-Provide instructions on how to install, configure, and use dedsec tools. Include any prerequisites, dependencies, or system requirements.
+Instructions on how to install, configure, and use dedsec tools.
 
 ```bash
 # Example installation command
 git clone tool-link.git
 cd toolname
 chmod +x toolname
-./toolname
+./toolname or sudo ./toolname
 ```
 
 > [!NOTE]\
