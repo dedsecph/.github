@@ -9,9 +9,8 @@
 
 Welcome to the official repository of DEDSECPH, a community-driven organization focused on developing cybersecurity tools and contributing to the field of ethical hacking. Our mission is to promote responsible and legal use of technology to enhance cybersecurity awareness and practices.
 
-## Disclaimer
-
-**Note: The tools developed by DEDSECPH are intended for legal and ethical use only. Unauthorized access to computer systems or networks is illegal, and we do not support any activities that violate applicable laws. Always ensure you have explicit authorization before using our tools.**
+> [!NOTE]\
+The tools developed by DEDSECPH are intended for legal and ethical use only. Unauthorized access to computer systems or networks is illegal, and we do not support any activities that violate applicable laws. Always ensure you have explicit authorization before using our tools.
 
 ## Getting Started
 
@@ -24,12 +23,6 @@ cd toolname
 chmod +x toolname
 ./toolname
 ```
-
-> [!IMPORTANT]\
-> Since dedsec tool is freely accessible to users without any cost, use it for the greater good rather than causing harm to anybody.
-
-> [!WARNING]\
-> I'm not responsible for anything you do with dedsec tool, so please only use it for good and educational purposes. 
 
 > [!NOTE]\
 > If you find dedsecph work helpful and want to support, consider making a donation. Your contribution will help me continue working on open-source projects.
