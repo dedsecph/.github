@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/12263/12263447.png", width="250", height="250">
+<img src="https://github.com/user-attachments/assets/6e8286e4-a967-4966-adab-e4ed98194a1e", width="250", height="250">
 </p>
 
 <h1 align="center"> DEDSECPH </h1>
